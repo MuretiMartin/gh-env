@@ -12,7 +12,7 @@ jobs:
       MONGODB_CLUSTER_ADDRESS: cluster0.7zwmy7r.mongodb.net
       MONGODB_USERNAME: muretimartin
       MONGODB_PASSWORD: YPJ0gSlzXPEZrU2E
-      PORT: 880
+      PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
     steps:
